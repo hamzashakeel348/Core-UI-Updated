@@ -1,6 +1,6 @@
 import React from 'react'
 import { AppContent, AppSidebar, AppFooter, AppHeader } from '../components/index'
-import Table from '../components/table'
+import Table from '../components/Table'
 const DefaultLayout = () => {
   return (
     <div>
